@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+        content="Vraag verwijdering van uw Reclame Plein-account en bijbehorende persoonsgegevens aan.">
+  <title>Account verwijderen | Reclame Plein</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 32px 16px;
+      background: #f4f6f8;
+      color: #263244;
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+    }
+    main {
+      max-width: 760px;
+      margin: auto;
+      padding: 36px;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 4px 24px rgba(0,0,0,.05);
+    }
+    h1, h2 { color: #172b45; line-height: 1.3; }
+    h1 { margin-top: 0; font-size: 30px; }
+    h2 { margin-top: 30px; font-size: 21px; }
+    li { margin-bottom: 10px; }
+    a { color: #1557b0; overflow-wrap: anywhere; }
+    .button {
+      display: inline-block;
+      margin: 12px 0;
+      padding: 14px 22px;
+      background: #1557b0;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    .note {
+      padding: 16px;
+      background: #eef4fc;
+      border-radius: 8px;
+    }
+    footer {
+      margin-top: 32px;
+      padding-top: 20px;
+      border-top: 1px solid #e5e7eb;
+      color: #667085;
+      font-size: 14px;
+    }
+    @media (max-width: 600px) {
+      body { padding: 16px 10px; }
+      main { padding: 24px 20px; }
+      h1 { font-size: 26px; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Uw Reclame Plein-account verwijderen</h1>
+
+  <p>
+    U kunt de verwijdering van uw Reclame Plein-account en de
+    bijbehorende persoonsgegevens aanvragen via e-mail.
+    U hoeft de app hiervoor niet te installeren of opnieuw te downloaden.
+  </p>
+
+  <h2>Hoe dient u een verzoek in?</h2>
+  <ol>
+    <li>
+      Stuur een e-mail naar
+      <a href="mailto:codapplabs@gmail.com">codapplabs@gmail.com</a>,
+      bij voorkeur vanaf het e-mailadres waarmee u bent geregistreerd.
+    </li>
+    <li>
+      Gebruik als onderwerp:
+      <strong>Account verwijderen – Reclame Plein</strong>.
+    </li>
+    <li>
+      Geef aan dat u uw account en de bijbehorende persoonsgegevens
+      wilt laten verwijderen. Vermeld het e-mailadres of de
+      gebruikersnaam van uw account.
+    </li>
+  </ol>
+
+  <a class="button"
+     href="mailto:codapplabs@gmail.com?subject=Account%20verwijderen%20%E2%80%93%20Reclame%20Plein&amp;body=Beste%20Reclame%20Plein%2C%0A%0AIk%20wil%20mijn%20account%20en%20de%20bijbehorende%20persoonsgegevens%20laten%20verwijderen.%0A%0AE-mailadres%20of%20gebruikersnaam%20van%20mijn%20account%3A%20%0A%0AMet%20vriendelijke%20groet">
+    Verwijdering aanvragen via e-mail
+  </a>
+
+  <p>
+    Werkt de knop niet? Stuur dan zelf een e-mail naar
+    <strong>codapplabs@gmail.com</strong>.
+  </p>
+
+  <p class="note">
+    Stuur nooit uw wachtwoord, inlogcode of een kopie van uw
+    identiteitsbewijs mee. Als aanvullende verificatie nodig is,
+    nemen wij contact met u op en vragen wij alleen de informatie
+    die daarvoor noodzakelijk is.
+  </p>
+
+  <h2>Welke gegevens worden verwijderd?</h2>
+  <p>
+    Na controle van uw verzoek verwijderen wij uw account en de
+    persoonsgegevens die daaraan zijn gekoppeld, voor zover aanwezig:
+  </p>
+  <ul>
+    <li>Uw account- en profielgegevens.</li>
+    <li>Uw e-mailadres en telefoonnummer.</li>
+    <li>Uw opgeslagen adresgegevens, postcode en locatiegegevens.</li>
+    <li>Uw opgeslagen voorkeuren en meldingsinstellingen.</li>
+    <li>
+      Overige gebruiksgegevens die aan uw account gekoppeld zijn
+      en waarvoor geen geldige bewaarplicht of andere noodzakelijke
+      bewa reden bestaat.
+    </li>
+  </ul>
+
+  <h2>Hoe lang duurt het?</h2>
+  <p>
+    Wij behandelen uw verzoek zonder onnodige vertraging en in
+    beginsel binnen één maand na ontvangst. U ontvangt een bevestiging
+    zodra de verwijdering is uitgevoerd.
+  </p>
+  <p>
+    Als uw verzoek complex is en meer tijd nodig is, informeren wij u
+    binnen die eerste maand over de reden en de verlenging.
+    De termijn kan in dat geval met maximaal twee maanden worden verlengd.
+  </p>
+
+  <h2>Zijn er uitzonderingen?</h2>
+  <p>
+    Wij bewaren niet standaard uw accountgegevens na verwijdering.
+    Alleen wanneer bepaalde gegevens noodzakelijk zijn voor een
+    wettelijke verplichting, fraudepreventie, beveiliging of de
+    afhandeling van een juridisch geschil, kunnen wij die gegevens
+    langer bewaren. In dat geval informeren wij u over de betrokken
+    gegevens, de reden en de toepasselijke bewaartermijn of de
+    criteria waarmee die termijn wordt bepaald.
+  </p>
+  <p>
+    Een minimale registratie van uw verwijderverzoek kan worden
+    bewaard voor zover dat noodzakelijk is om de afhandeling ervan
+    te verantwoorden. Eventuele technische back-upkopieën verdwijnen
+    volgens de back-upcyclus en worden niet voor normaal gebruik ingezet.
+    Wij informeren u bij de afhandeling over een eventuele resterende
+    bewaartermijn in back-ups.
+  </p>
+  <p>
+    Gegevens die al onomkeerbaar zijn geanonimiseerd en niet meer
+    naar u te herleiden zijn, vallen niet onder de verwijdering
+    van uw persoonsgegevens.
+  </p>
+
+  <h2>Wat gebeurt er met uw toegang?</h2>
+  <p>
+    Na verwijdering kunt u niet meer met dit account inloggen.
+    Uw opgeslagen accountgegevens kunnen niet worden hersteld.
+    Alleen de app verwijderen van uw telefoon verwijdert uw account niet.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Heeft u vragen of geen toegang meer tot uw geregistreerde
+    e-mailadres? Neem contact op via
+    <a href="mailto:codapplabs@gmail.com">codapplabs@gmail.com</a>.
+    Wij helpen u met een passende controle van uw verzoek.
+  </p>
+
+  <footer>
+    Reclame Plein · Laatst bijgewerkt: 23 oktober 2026
+  </footer>
+</main>
+</body>
+</html>
